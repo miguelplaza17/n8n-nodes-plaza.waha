@@ -1,19 +1,22 @@
 {
-  "name": "@devlikeapro/n8n-nodes-waha",
-  "version": "2025.2.9",
-  "description": "n8n to connect with WAHA (Whatsapp HTTP API)",
+  "name": "n8n-nodes-plaza-waha",
+  "version": "1.0.0",
+  "description": "n8n to connect with WAHA (Whatsapp HTTP API) - Refactored with single event selection",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "waha",
+    "whatsapp",
+    "n8n"
   ],
   "license": "MIT",
-  "homepage": "https://n8n.io",
+  "homepage": "https://github.com/miguelplaza17/n8n-nodes-plaza.waha",
   "author": {
-    "name": "WAHA",
-    "email": "waha@devlike.pro"
+    "name": "Miguel Plaza",
+    "email": "miguelplaza17@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devlikeapro/n8n-nodes-waha.git"
+    "url": "https://github.com/miguelplaza17/n8n-nodes-plaza.waha.git"
   },
   "moduleDirectories": [
     "node_modules",
